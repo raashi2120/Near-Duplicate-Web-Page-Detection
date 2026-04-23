@@ -164,7 +164,7 @@ Two pipelines are compared:
 ## How to Run
 
 ```bash
-git clone https://github.com/your-username/repo-name.git
-cd repo-name
+git clone https://github.com/raashi2120/Near-Duplicate-Web-Page-Detection.git
+cd STIA_Project
 pip install -r requirements.txt
-python main.py
+
