@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-04-20T09:52:45.579016Z",
+  "total_articles": 150,
+  "total_pairs": 900,
+  "true_near_duplicates": 750,
+  "true_negatives": 150,
+  "articles_per_domain": {
+    "bbc": 26,
+    "aljazeera": 20,
+    "wikipedia": 104
+  },
+  "articles_per_source": {
+    "curated": 46,
+    "wikipedia_random_api": 104
+  },
+  "pairs_per_variant": {
+    "timestamp_swap": 150,
+    "ad_block_injection": 150,
+    "url_difference_only": 150,
+    "minor_content_edit": 150,
+    "boilerplate_only_diff": 150,
+    "full_content_swap": 150
+  },
+  "variant_label_map": {
+    "timestamp_swap": 1,
+    "ad_block_injection": 1,
+    "url_difference_only": 1,
+    "minor_content_edit": 1,
+    "boilerplate_only_diff": 1,
+    "full_content_swap": 0
+  }
+}

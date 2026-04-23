@@ -1,0 +1,21 @@
+A needlegun scaler, needle scaler, or needle-gun is a tool used to remove rust, mill scale, and old paint from metal surfaces.[2] The tool is used in metalwork applications as diverse as home repair, automotive repair, and shipboard preservation.[3][4][5]
+A needle gun has a set of very fine chisels known as needles. The tool forces these needles against a work surface at variable speeds up to around 5,000 times per minute.[3][2] Different models offer choices of number of needles, operating speed, and power levels.[3] Many models use compressed air, although electrical needle-guns do exist.[3][6]
+In a pneumatic unit, compressed air forces a piston forwards and backwards.[3] This movement causes the needles to move back and forth against the work surface.[3]
+The needle gun has advantages over other scaling tools. Its main advantage is that the needles automatically adjust themselves to contours, making the tool a good choice for cleaning irregular surfaces.[2] A needle gun can clean an area to bare metal in seconds, and compares well to other scaling tools in terms of accuracy and precision.[3]
+It is recommended that before needlegunning, a surface should be prepared by removing oil, grease, dirt, chemicals and water-soluble contaminants. This can be done with solvents or with a combination of detergent and fresh water.[5] Then, the needle gun is used to remove rust, loose scale, and paint, leaving bare metal.[5] It is used most effectively by holding it at a 45° angle to the work surface.[5] It is recommended that an area no larger than 6 to 8 inches (150 to 200 mm) be cleared at once.[5] Two to three passes over an area is generally sufficient to clean it.[5] Then the process is repeated until the desired area is completed.[5]
+Prior to painting, it is desirable to "feather" or taper any edges between metal and old paint.[5] It is also important to check the surface for any oil deposited during chipping, and if necessary, to clean the area with solvents.[5] Since bare metal surfaces will flash rust soon after exposure to the atmosphere, paint should be applied as soon as possible after chipping.[5] If flash rusting occurs prior to coating, further chipping, cleaning, and sanding may be necessary.[5]
+Because the power tool is noisy and can produce flying chips of debris as well as fine dust, PPE to protect vision, hearing, and breathing are recommended by safety regulators and tool manufacturers.[7][8]
+- U.S. Navy, 2006.
+- NETC, 2003, p. 11-10.
+- Miller, 2008.
+- Park, 1984.
+- NAVSEA, 2008.
+- Nitto Kohki, 2008.
+- "Shipyard Employment eTool". Occupational Safety and Health Administration. US Department of Labor. Retrieved 2023-07-22.
+- "SC28 Needle Scaler Manual" (PDF). SASE. SASE Company, Inc. Retrieved 2023-07-22.
+- Miller, Jason (2008-01-30). "Needle Scaler and Debris Removal". Free Online Library. Retrieved 2008-04-05.
+- Naval Sea Systems Command (NAVSEA) (2008). "Chapter 7: Submarine Forces Afloat Painting and Preservation Guidelines for Non-Nuclear Spaces and Components". Contracted Ship Maintenance. Joint Fleet Maintenance Manual - Rev A Change 7. Vol. VI. United States Navy. Archived from the original on January 5, 2002.
+- Naval Education and Training Command (NETC) (2003) [1996]. "Chapter 11: Painting". NAVEDTRA 14343: Boatswain's Mate (PDF). Nonresident Training Manuals. Pensacola, Florida: United States Navy. Retrieved 2008-04-05.
+- "060323-N-3946H-042.jpg". Eye on the Fleet Photo Gallery. Navy NewsStand. United States Navy. 2006-03-23. Archived from the original on 12 April 2006. Retrieved 9 March 2021.
+- Park, Sharon (1984). "#13: The Repair and Thermal Upgrading of Historic Steel Windows". Preservation Briefs. Government Publishing Office. Archived from the original on 2008-04-15. Retrieved 2008-04-05.
+- Nitto Kohki (2008). "EJC-32A Electric Needle Scaler". nittokohki.com. Nitto Kohki USA. Archived from the original on 2008-06-15. Retrieved 2008-04-05.

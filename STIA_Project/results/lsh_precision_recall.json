@@ -1,0 +1,30 @@
+{
+  "pipeline_a": {
+    "lsh": [
+      {
+        "precision": 1.0,
+        "recall": 0.6547,
+        "f1": 0.7913,
+        "tp": 491,
+        "fp": 0,
+        "fn": 259,
+        "tn": 150,
+        "threshold": "candidate_pair"
+      }
+    ]
+  },
+  "pipeline_b": {
+    "lsh": [
+      {
+        "precision": 1.0,
+        "recall": 0.7547,
+        "f1": 0.8602,
+        "tp": 566,
+        "fp": 0,
+        "fn": 184,
+        "tn": 150,
+        "threshold": "candidate_pair"
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "pipeline_a": {
+    "lsh": {
+      "overall": {
+        "precision": 1.0,
+        "recall": 0.6547,
+        "f1": 0.7913,
+        "tp": 491,
+        "fp": 0,
+        "fn": 259,
+        "tn": 150,
+        "total": 900
+      },
+      "by_variant": {
+        "ad_block_injection": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.8933,
+          "f1": 0.9437,
+          "label": 1
+        },
+        "boilerplate_only_diff": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.0667,
+          "f1": 0.125,
+          "label": 1
+        },
+        "full_content_swap": {
+          "count": 150,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "label": 0
+        },
+        "minor_content_edit": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.6933,
+          "f1": 0.8189,
+          "label": 1
+        },
+        "timestamp_swap": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.62,
+          "f1": 0.7654,
+          "label": 1
+        },
+        "url_difference_only": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "label": 1
+        }
+      },
+      "by_domain": {
+        "aljazeera": {
+          "count": 120,
+          "precision": 1.0,
+          "recall": 0.66,
+          "f1": 0.7952
+        },
+        "bbc": {
+          "count": 156,
+          "precision": 1.0,
+          "recall": 0.7154,
+          "f1": 0.8341
+        },
+        "wikipedia": {
+          "count": 624,
+          "precision": 1.0,
+          "recall": 0.6385,
+          "f1": 0.7793
+        }
+      }
+    }
+  },
+  "pipeline_b": {
+    "lsh": {
+      "overall": {
+        "precision": 1.0,
+        "recall": 0.7547,
+        "f1": 0.8602,
+        "tp": 566,
+        "fp": 0,
+        "fn": 184,
+        "tn": 150,
+        "total": 900
+      },
+      "by_variant": {
+        "ad_block_injection": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.8333,
+          "f1": 0.9091,
+          "label": 1
+        },
+        "boilerplate_only_diff": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.9933,
+          "f1": 0.9967,
+          "label": 1
+        },
+        "full_content_swap": {
+          "count": 150,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "label": 0
+        },
+        "minor_content_edit": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.3667,
+          "f1": 0.5366,
+          "label": 1
+        },
+        "timestamp_swap": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.58,
+          "f1": 0.7342,
+          "label": 1
+        },
+        "url_difference_only": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "label": 1
+        }
+      },
+      "by_domain": {
+        "aljazeera": {
+          "count": 120,
+          "precision": 1.0,
+          "recall": 0.82,
+          "f1": 0.9011
+        },
+        "bbc": {
+          "count": 156,
+          "precision": 1.0,
+          "recall": 0.8,
+          "f1": 0.8889
+        },
+        "wikipedia": {
+          "count": 624,
+          "precision": 1.0,
+          "recall": 0.7308,
+          "f1": 0.8444
+        }
+      }
+    }
+  }
+}

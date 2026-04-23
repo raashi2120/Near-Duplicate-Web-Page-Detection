@@ -1,0 +1,34 @@
+The 863 program (Chinese: 863计划) or State High-Tech Development Plan (Chinese: 国家高技术研究发展计划) was a program funded and administered by the government of the People's Republic of China intended to stimulate the development of advanced technologies in a wide range of fields for the purpose of rendering China independent of financial obligations for foreign technologies.[1] It was inspired by the Strategic Defense Initiative proposed by U.S. president Ronald Reagan in 1983, and was absorbed alongside Program 973 into the "National Key R&D Program" in 2016.[2][3][4]
+On March 4, 1985, the program was suggested by Wang Daheng, Wang Ganchang, Yang Jiachi, and Chen Fangyun in a letter to China's paramount leader Deng Xiaoping, who approved the program within 2 days.[5][6] The program was initially led by Zhao Ziyang, who was the premier of China at the time, and received a governmental fund of 10 billion RMB in 1986, which accounts for 5% of the total government spending that year.[3][6][7] According to the US National Counterintelligence and Security Center, the 863 program "provides funding and guidance for efforts to clandestinely acquire US technology and sensitive economic information."[8]
+Among the products known to have resulted from the 863 program are the Loongson computer processor family (originally named Godson), the Tianhe supercomputers and the Shenzhou spacecraft.[9][10]
+Named after its date of establishment (March 1986, 86/3 by the Chinese date format), the 863 Program was proposed in a letter to the Chinese government by scientists Wang Daheng, Wang Ganchang, Yang Jiachi, and Chen Fangyun and endorsed by Deng Xiaoping.[11] After its implementation during the Seventh Five-Year Plan, the program continued to operate through the two five-year plans that followed, with state financing of around 11 billion RMB and an output of around 2000 patents (national and international).[12]
+In 2001, under the Tenth Five-Year Plan, the program was reevaluated in consultation with foreign experts. The result was a widened focus to strengthen the competitiveness of China in the global economy.[13] The evaluation practice has been included into the program as a project management system.[13]
+In a 2011 court case, Chinese-born scientist Huang Kexue was found guilty of stealing commercial secrets from US-based corporations and passing at least some of this information to the 863 program.[14]
+The program initially focused on seven key technological fields:[15]
+Since 1986, two more fields have been brought under the umbrella of the program:
+- Telecommunications (1992)
+- Marine technology (1996)
+It included substantial support for the advancement of optics and optoelectronics.[16]: 151
+- Science and technology in China
+- Allegations of intellectual property infringement by China
+- Program 973
+- State Key Laboratories
+- Project 985
+- Project 211
+- Wu, Hequan (7 August 2001). "The progress of communication technology subject of hi-tech research development plan of China". WCC 2000 - ICCT 2000. 2000 International Conference on Communication Technology Proceedings (Cat. No.00EX420). Vol. 1. Beijing. pp. 3–4. doi:10.1109/ICCT.2000.889157. ISBN 0-7803-6394-9. S2CID 60832883.
+{{cite book}}
+: CS1 maint: location missing publisher (link) - Zhi, Qiang; Pearson, Margaret M. (July 2017). "China's Hybrid Adaptive Bureaucracy: The Case of the 863 Program for Science and Technology" (PDF). Governance. 30 (3): 407–424. doi:10.1111/gove.12245. S2CID 152280888. Archived (PDF) from the original on 21 September 2021. Retrieved 29 November 2019.
+- Gewirtz, Julian (February 2019). "The Futurists of Beijing: Alvin Toffler, Zhao Ziyang, and China's "New Technological Revolution," 1979–1991". The Journal of Asian Studies. 78 (1): 115–140. doi:10.1017/S0021911818002619. ISSN 0021-9118.
+- "Press Conference on the "Launch and Implementation of the National Key R&D Program": Summary Transcript". Center for Security and Emerging Technology. 14 September 2020. Archived from the original on 4 October 2022. Retrieved 6 January 2024.
+- "Ministry of Science and Technology of the People's Republic of China". www.most.gov.cn. Archived from the original on 7 January 2022. Retrieved 29 November 2019.
+- "1986年邓小平亲自决策启动"863"计划--邓小平纪念网--人民网". cpc.people.com.cn. Archived from the original on 21 September 2021. Retrieved 29 November 2019.
+- Karplus, Valerie J.; Deng, Xing Wang (18 December 2006). Agricultural Biotechnology in China: Origins and Prospects. Springer Science & Business Media. ISBN 978-0-387-71138-6. Archived from the original on 6 January 2023. Retrieved 27 November 2021.
+- "Foreign Spies Stealing US Economic Secrets in Cyberspace: Report to Congress on Foreign Economic Collection and Industrial Espionage, 2009-2011" (PDF). Office of the National Counterintelligence Executive. October 2011. Archived (PDF) from the original on 2 December 2022. Retrieved 4 January 2024.
+- "Designing Quad-Core Loongson-3 Processor". english.ict.cas.cn. Archived from the original on 23 September 2021. Retrieved 29 November 2019.
+- "Scientific Innovation and China's Military Modernization". thediplomat.com. Archived from the original on 4 October 2021. Retrieved 29 November 2019.
+- Feigenbaum, Evan A. (2003). China's Techno-warriors: National Security and Strategic Competition from the Nuclear to the Information Age. Stanford, California: Stanford University Press. p. 141. ISBN 978-0-8047-4601-4. OCLC 49415750. Archived from the original on 6 January 2023. Retrieved 19 April 2019.
+- Science & Technology Newsletter No.380: 863 Program Creates RMB 56 Billion, Ministry of Science & Technology of the People's Republic of China (MOST), archived from the original on 21 November 2013
+- "National High-tech R&D Program (863 Program)". Ministry of Science and Technology of the People's Republic of China. Archived from the original on 7 January 2022. Retrieved 1 April 2015.
+- "Chinese scientist Huang Kexue jailed for trade theft". BBC News. 23 December 2010. Archived from the original on 6 November 2021. Retrieved 5 January 2024.
+- Ke, Yan (2005). Chinas Wissenschaft und Technik (in German). 五洲传播出版社. p. 109. ISBN 978-7-5085-0671-5. Archived from the original on 6 January 2023. Retrieved 23 September 2016.
+- de Seta, Gabriele (2025). "Technologies of Clairvoyance: Chinese Lineages and Mythologies of Machine Vision". In Bratton, Benjamin; Greenspan, Anna; Ireland, Amy; Konior, Bogna (eds.). Machine Decision Is Not Final: China and the History and Future of Artificial Intelligence. Urbanomic, MIT Press. ISBN 9781913029999.

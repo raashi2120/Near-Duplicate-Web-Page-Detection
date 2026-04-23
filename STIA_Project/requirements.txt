@@ -1,0 +1,7 @@
+beautifulsoup4
+datasketch
+lxml
+numpy
+requests
+tqdm
+trafilatura

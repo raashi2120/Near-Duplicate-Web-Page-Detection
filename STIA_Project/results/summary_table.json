@@ -1,0 +1,462 @@
+{
+  "pipeline_a": {
+    "alg_b": {
+      "overall": {
+        "precision": 1.0,
+        "recall": 0.688,
+        "f1": 0.8152,
+        "tp": 516,
+        "fp": 0,
+        "fn": 234,
+        "tn": 150,
+        "total": 900
+      },
+      "by_variant": {
+        "ad_block_injection": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.9533,
+          "f1": 0.9761,
+          "label": 1
+        },
+        "boilerplate_only_diff": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.1,
+          "f1": 0.1818,
+          "label": 1
+        },
+        "full_content_swap": {
+          "count": 150,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "label": 0
+        },
+        "minor_content_edit": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.76,
+          "f1": 0.8636,
+          "label": 1
+        },
+        "timestamp_swap": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.6267,
+          "f1": 0.7705,
+          "label": 1
+        },
+        "url_difference_only": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "label": 1
+        }
+      },
+      "by_domain": {
+        "aljazeera": {
+          "count": 120,
+          "precision": 1.0,
+          "recall": 0.71,
+          "f1": 0.8304
+        },
+        "bbc": {
+          "count": 156,
+          "precision": 1.0,
+          "recall": 0.6923,
+          "f1": 0.8182
+        },
+        "wikipedia": {
+          "count": 624,
+          "precision": 1.0,
+          "recall": 0.6827,
+          "f1": 0.8114
+        }
+      }
+    },
+    "alg_c": {
+      "overall": {
+        "precision": 1.0,
+        "recall": 0.7773,
+        "f1": 0.8747,
+        "tp": 583,
+        "fp": 0,
+        "fn": 167,
+        "tn": 150,
+        "total": 900
+      },
+      "by_variant": {
+        "ad_block_injection": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.94,
+          "f1": 0.9691,
+          "label": 1
+        },
+        "boilerplate_only_diff": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.1467,
+          "f1": 0.2558,
+          "label": 1
+        },
+        "full_content_swap": {
+          "count": 150,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "label": 0
+        },
+        "minor_content_edit": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.96,
+          "f1": 0.9796,
+          "label": 1
+        },
+        "timestamp_swap": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.84,
+          "f1": 0.913,
+          "label": 1
+        },
+        "url_difference_only": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "label": 1
+        }
+      },
+      "by_domain": {
+        "aljazeera": {
+          "count": 120,
+          "precision": 1.0,
+          "recall": 0.77,
+          "f1": 0.8701
+        },
+        "bbc": {
+          "count": 156,
+          "precision": 1.0,
+          "recall": 0.8,
+          "f1": 0.8889
+        },
+        "wikipedia": {
+          "count": 624,
+          "precision": 1.0,
+          "recall": 0.7731,
+          "f1": 0.872
+        }
+      }
+    },
+    "combined": {
+      "overall": {
+        "precision": 1.0,
+        "recall": 0.6867,
+        "f1": 0.8142,
+        "tp": 515,
+        "fp": 0,
+        "fn": 235,
+        "tn": 150,
+        "total": 900
+      },
+      "by_variant": {
+        "ad_block_injection": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.9533,
+          "f1": 0.9761,
+          "label": 1
+        },
+        "boilerplate_only_diff": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.0933,
+          "f1": 0.1707,
+          "label": 1
+        },
+        "full_content_swap": {
+          "count": 150,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "label": 0
+        },
+        "minor_content_edit": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.76,
+          "f1": 0.8636,
+          "label": 1
+        },
+        "timestamp_swap": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.6267,
+          "f1": 0.7705,
+          "label": 1
+        },
+        "url_difference_only": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "label": 1
+        }
+      },
+      "by_domain": {
+        "aljazeera": {
+          "count": 120,
+          "precision": 1.0,
+          "recall": 0.71,
+          "f1": 0.8304
+        },
+        "bbc": {
+          "count": 156,
+          "precision": 1.0,
+          "recall": 0.6923,
+          "f1": 0.8182
+        },
+        "wikipedia": {
+          "count": 624,
+          "precision": 1.0,
+          "recall": 0.6808,
+          "f1": 0.8101
+        }
+      }
+    }
+  },
+  "pipeline_b": {
+    "alg_b": {
+      "overall": {
+        "precision": 1.0,
+        "recall": 0.768,
+        "f1": 0.8688,
+        "tp": 576,
+        "fp": 0,
+        "fn": 174,
+        "tn": 150,
+        "total": 900
+      },
+      "by_variant": {
+        "ad_block_injection": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.8733,
+          "f1": 0.9324,
+          "label": 1
+        },
+        "boilerplate_only_diff": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.9933,
+          "f1": 0.9967,
+          "label": 1
+        },
+        "full_content_swap": {
+          "count": 150,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "label": 0
+        },
+        "minor_content_edit": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.3933,
+          "f1": 0.5646,
+          "label": 1
+        },
+        "timestamp_swap": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.58,
+          "f1": 0.7342,
+          "label": 1
+        },
+        "url_difference_only": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "label": 1
+        }
+      },
+      "by_domain": {
+        "aljazeera": {
+          "count": 120,
+          "precision": 1.0,
+          "recall": 0.84,
+          "f1": 0.913
+        },
+        "bbc": {
+          "count": 156,
+          "precision": 1.0,
+          "recall": 0.8,
+          "f1": 0.8889
+        },
+        "wikipedia": {
+          "count": 624,
+          "precision": 1.0,
+          "recall": 0.7462,
+          "f1": 0.8546
+        }
+      }
+    },
+    "alg_c": {
+      "overall": {
+        "precision": 1.0,
+        "recall": 0.8773,
+        "f1": 0.9347,
+        "tp": 658,
+        "fp": 0,
+        "fn": 92,
+        "tn": 150,
+        "total": 900
+      },
+      "by_variant": {
+        "ad_block_injection": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.88,
+          "f1": 0.9362,
+          "label": 1
+        },
+        "boilerplate_only_diff": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.96,
+          "f1": 0.9796,
+          "label": 1
+        },
+        "full_content_swap": {
+          "count": 150,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "label": 0
+        },
+        "minor_content_edit": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.7933,
+          "f1": 0.8848,
+          "label": 1
+        },
+        "timestamp_swap": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.7533,
+          "f1": 0.8593,
+          "label": 1
+        },
+        "url_difference_only": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "label": 1
+        }
+      },
+      "by_domain": {
+        "aljazeera": {
+          "count": 120,
+          "precision": 1.0,
+          "recall": 0.94,
+          "f1": 0.9691
+        },
+        "bbc": {
+          "count": 156,
+          "precision": 1.0,
+          "recall": 0.9154,
+          "f1": 0.9558
+        },
+        "wikipedia": {
+          "count": 624,
+          "precision": 1.0,
+          "recall": 0.8558,
+          "f1": 0.9223
+        }
+      }
+    },
+    "combined": {
+      "overall": {
+        "precision": 1.0,
+        "recall": 0.768,
+        "f1": 0.8688,
+        "tp": 576,
+        "fp": 0,
+        "fn": 174,
+        "tn": 150,
+        "total": 900
+      },
+      "by_variant": {
+        "ad_block_injection": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.8733,
+          "f1": 0.9324,
+          "label": 1
+        },
+        "boilerplate_only_diff": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.9933,
+          "f1": 0.9967,
+          "label": 1
+        },
+        "full_content_swap": {
+          "count": 150,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "label": 0
+        },
+        "minor_content_edit": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.3933,
+          "f1": 0.5646,
+          "label": 1
+        },
+        "timestamp_swap": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 0.58,
+          "f1": 0.7342,
+          "label": 1
+        },
+        "url_difference_only": {
+          "count": 150,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "label": 1
+        }
+      },
+      "by_domain": {
+        "aljazeera": {
+          "count": 120,
+          "precision": 1.0,
+          "recall": 0.84,
+          "f1": 0.913
+        },
+        "bbc": {
+          "count": 156,
+          "precision": 1.0,
+          "recall": 0.8,
+          "f1": 0.8889
+        },
+        "wikipedia": {
+          "count": 624,
+          "precision": 1.0,
+          "recall": 0.7462,
+          "f1": 0.8546
+        }
+      }
+    }
+  }
+}

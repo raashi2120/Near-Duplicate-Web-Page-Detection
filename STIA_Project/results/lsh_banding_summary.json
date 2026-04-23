@@ -1,0 +1,12 @@
+{
+  "pipeline_a": {
+    "docs": 1050,
+    "candidate_pairs": 1078,
+    "output_file": "results\\pipeline_a_lsh_candidates.jsonl"
+  },
+  "pipeline_b": {
+    "docs": 1050,
+    "candidate_pairs": 1834,
+    "output_file": "results\\pipeline_b_lsh_candidates.jsonl"
+  }
+}

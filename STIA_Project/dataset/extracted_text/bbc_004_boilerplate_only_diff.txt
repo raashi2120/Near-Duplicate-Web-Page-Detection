@@ -1,0 +1,73 @@
+The insider trading suspicions looming over Trump's presidency
+Throughout US President Donald Trump's second term in office, traders have been betting millions of dollars just before he makes major announcements.
+The BBC has examined trade volume data on several financial markets and matched them to some of the president's most significant market-moving statements.
+It found a consistent pattern of spikes just hours, or sometimes minutes, before a social media post or media interview was made public.
+Some analysts say it bears the hallmarks of illegal insider trading, whereby bets are made by people based on information that is not available to the general public.
+Others say the picture is more complicated and that some traders have become more adept at anticipating the president's interventions.
+Here are five of the most significant examples.
+9 March 2026: 'The war is very complete, pretty much'
+Some of the biggest movements have been in oil trades on the futures market.
+Nine days into the US-Israel war with Iran, Trump told CBS News in a phone interview that the conflict was "very complete, pretty much".
+- 18:29 GMT: Oil bets surge
+- 19:16 GMT: Trump says war is nearly complete
+- 19:17 GMT: Oil drops by 25%
+The first time the public would have known about the interview was at 15:16 Eastern Time (19:16 GMT) when the reporter posted about it on X.
+Oil traders reacted to this news that the conflict could end much sooner than expected by selling oil, with the price plunging by around 25%.
+However, market data shows a huge surge of bets were placed on the price of oil falling at 18:29 GMT - a full 47 minutes before the reporter's post.
+The traders who placed those bets will have made millions of dollars from the movement in oil prices.
+23 March 2026: 'Complete and total resolution to hostilities'
+On 23 March, just two days after threatening to "obliterate" Iran's power plants, Trump posted on Truth Social that Washington had held "VERY GOOD AND PRODUCTIVE CONVERSATIONS" with Tehran over a "COMPLETE AND TOTAL RESOLUTION" to hostilities.
+It was a major surprise to diplomatic observers and to traders.
+- 10:48-10:50 GMT: Oil bets surge
+- 11:04 GMT: Trump posts about "total resolution" to hostilities
+- 11:05 GMT: Oil drops by 11%
+Immediately, stocks rose and the US benchmark price of oil - which had been climbing - fell sharply.
+The same pattern was seen in traders buying contracts for Brent crude, the other major oil benchmark.
+The trades appeared "abnormal, for sure," one oil analyst told the BBC at the time.
+9 April 2025: 'Liberation Day' pause
+Away from the war in the Middle East, there are other examples of trading activity that have raised eyebrows.
+On 2 April last year, Trump announced what he called Liberation Day - a sweeping set of tariffs on goods from practically every country in the world.
+Stock markets around the globe plunged.
+But a week later when Trump announced a 90-day "pause" on the levies for all countries, except China, stock markets soared.
+The benchmark S&P 500 index jumped by 9.5% - one of its largest single-day gains since the Second World War.
+- 18:00 BST: Traders start making big bets on stock market going up
+- 18:18 BST: Trump announces tariffs pause
+- 18:19 BST: Stock market begins historic surge
+Again, a pattern of unusual trading preceded these events with an unusually high number of bets ahead of the announcement on one fund that tracks the S&P 500.
+The number of contracts traded jumped to over 10,000 per minute just after 18:00 BST. Earlier in the day the number had been in the hundreds.
+Some traders bet over $2m on the stock market increasing that day, even though it had gone through seven days in a row of losses. The huge surge could have generated them a profit of almost $20m.
+Later that week, several senior Democrats in the US Senate wrote to the Securities and Exchange Commission (SEC) urging the financial regulator to investigate whether the president's announcements "enriched administration insiders and friends at the expense of the American public".
+When asked by the BBC whether it had looked into these allegations, a spokesman for the SEC declined to comment.
+The White House, meanwhile, did not respond to a BBC request for comment on any of the unusual trading activities analysed in this report.
+3 Jan 2026: Maduro seized
+- Dec 2025: Burdensome-Mix account created
+- 2 Jan 2026: Account puts $32,000 on Maduro being ousted
+- 3 Jan 2026: Maduro is seized and Burdensome-Mix wins $436,000
+The recent growth of online predictions markets has also drawn scrutiny from observers.
+Blockchain-powered platforms such as Polymarket and Kalshi offer users the chance to speculate on anything from the weather to baseball to US foreign policy.
+President Trump's son, Donald Trump Jr, is an investor in Polymarket and sits on its advisory board. He also acts as a strategic advisor to Kalshi and has been contacted by the BBC for comment.
+In December 2025, one user created an account on Polymarket called Burdensome-Mix. On 30 December, it placed its first bet on Venezuela's President Nicolás Maduro being out of office by the end of January 2026.
+Between 30 December and 2 January Burdensome-Mix placed a total of $32,500 on the position.
+When Maduro was seized by US special forces and ousted the following day, Burdensome-Mix won $436,000.
+Shortly afterwards, the account changed its username and has not placed any bets since.
+28 Feb 2026: Strikes on Iran
+- Feb 2026: Six accounts created on Polymarket
+- 28 Feb: Accounts win $1.2m between them
+According to the blockchain analysis website Bubblemaps, six accounts were created on Polymarket in February.
+All placed wagers on a US strike on Iran happening by 28 February. When the attacks were confirmed by President Trump in the early hours of that day, the accounts earned $1.2m between them.
+Five of those six users have placed no more bets since, but one of the account's recent activity shows it has subsequently made $163,000 by correctly betting on a US-Iran ceasefire by 7 April, which was announced by Washington and Tehran on that day.
+Polymarket told the BBC it "sets, maintains, and enforces the highest standards of market integrity", adding that it "proactively" works with regulators and law enforcement to do so.
+In March this year, both Polymarket and Kalshi outlined new rules to crack down on insider trading.
+Predictions markets come under the jurisdiction of the Commodity Futures Trading Commission (CFTC).
+The CFTC did not respond to a BBC request for comment, but its chair recently told a Congressional committee that his organisation had "zero tolerance" for fraud and insider trading.
+Spokesman Davis Ingle told the BBC at the time that "any implication that Administration officials are engaged in such activity without evidence is baseless and irresponsible reporting".
+Hard to prove
+Insider trading has been illegal for most Americans since the Securities Act was passed in 1933.
+It was extended to cover US government officials in 2012, although to date no-one has been prosecuted under the law.
+Paul Oudin, a professor who specialises in financial regulation law at the ESSEC Business School, says the rules are difficult to enforce.
+"The financial authorities will not carry out a prosecution if they can't figure out who the source of information is," says Oudin.
+None of the US financial authorities contacted by the BBC acknowledged any of the allegations of insider trading.
+"You can have massive trades on a financial instrument that clearly show that someone was privy to what Donald Trump was about to declare," says Oudin.
+"Yet there is a strong chance that no-one will be prosecuted," he adds.
+Charts by Tommy Lumby
+Follow the twists and turns of Trump's second term with North America correspondent Anthony Zurcher's weekly US Politics Unspun newsletter. Readers in the UK can sign up here. Those outside the UK can sign up here.

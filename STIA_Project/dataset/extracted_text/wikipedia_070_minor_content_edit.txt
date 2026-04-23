@@ -1,0 +1,52 @@
+FLOW-MATIC, originally known as B-0 (Business Language version 0), was the initial English-like data processing language. It was developed for the UNIVAC I at Remington Rand under Grace Hopper from 1955 to 1959, and helped shape the development of COBOL.
+Hopper had found that business data processing customers were uncomfortable with mathematical notation:[1]
+I used to be a mathematics professor. At that time I found there were a certain number of students who could not learn mathematics. I then was charged with the job of making it easy for businessmen to employ our computers. I found it was not a question of whether they could learn mathematics or not, but whether they would. […] They indicated 'Throw those symbols out—I do not realize what they mean, I have not time to learn symbols.' I suggest a reply to those who would like data processing people to use mathematical symbols that they make the first attempt to teach those symbols to vice-presidents or a colonel or admiral. I assure you that I tried it.
+In late 1953, she proposed that data processing problems should be expressed using English keywords, but Rand management considered the idea unfeasible. In early 1955, she and her team wrote a specification for such a programming language and implemented a prototype.[2] The FLOW-MATIC compiler became publicly available in early 1958 and was substantially complete in 1959.[3]
+The Laning and Zierler system was the initial programming language to parse algebraic formulae. When Hopper became aware of that language in 1954, it altered the trajectory of her work.[4] FLOW-MATIC was the initial programming language to express operations using English-like statements instead of symbols that have no meaning.[3] It was moreover the primary system to distinctly separate the description of data from the operations on it. Its data definition language, unlike its executable statements, was not English-like; rather, data structures were defined by filling in pre-printed forms.[3]
+FLOW-MATIC and its direct descendant AIMACO shaped COBOL,[5] which incorporated several of its elements:
+- Defining input files, output files, and printed output in advance, separated into INPUT files, OUTPUT files and (HSP) High Speed Printer outputs.
+INPUT <FILE-NAME> <FILE-LETTER>
+;OUTPUT <FILE-NAME> <FILE-LETTER>
+;HSP <FILE-LETTER>
+.[6] - Qualification of data-names (
+IN
+orOF
+clause). IF END OF DATA (AT END)
+clause on fileREAD
+operations.- Figurative constant
+ZERO
+(originallyZZZ...ZZZ
+, where number ofZ
+s indicated precision). - Dividing the program into sections, separating different parts of the program. Flow-Matic sections included
+Computer
+(Environment Division),Directory
+(Data Division), andCompiler
+(Procedure Division).
+A sample FLOW-MATIC program:[7][8]
+(0) INPUT INVENTORY FILE-A PRICE FILE-B ; OUTPUT PRICED-INV FILE-C UNPRICED-INV FILE-D ; HSP D . (1) COMPARE PRODUCT-NO (A) WITH PRODUCT-NO (B) ; IF GREATER GO TO OPERATION 10 ; IF EQUAL GO TO OPERATION 5 ; OTHERWISE GO TO OPERATION 2 . (2) TRANSFER A TO D . (3) WRITE-ITEM D . (4) JUMP TO OPERATION 8 . (5) TRANSFER A TO C . (6) MOVE UNIT-PRICE (B) TO UNIT-PRICE (C) . (7) WRITE-ITEM C . (8) READ-ITEM A ; IF END OF DATA GO TO OPERATION 14 . (9) JUMP TO OPERATION 1 . (10) READ-ITEM B ; IF END OF DATA GO TO OPERATION 12 . (11) JUMP TO OPERATION 1 . (12) SET OPERATION 9 TO GO TO OPERATION 2 . (13) JUMP TO OPERATION 2 . (14) TEST PRODUCT-NO (B) AGAINST ; IF EQUAL GO TO OPERATION 16 ; OTHERWISE GO TO OPERATION 15 . (15) REWIND B . (16) CLOSE-OUT FILES C ; D . (17) STOP . (END)
+Sample notes
+- Note that this sample includes only the executable statements of the program, the
+COMPILER
+section. The record fieldsPRODUCT-NO
+andUNIT-PRICE
+would have been defined in theDIRECTORY
+section, which (as previously noted) did not use English-like syntax.[9] - Files are referred to by the letter at the end of the FILE-LETTER. Example: FILE-A is referred to later just by A and is for ease of reference in following code.
+- Operations are numbered in an unbroken sequence from 0..n and are performed in that order unless a statement to the contrary is reached/made (executed) (JUMP, etc.).
+- The highest numbered operation is the one that stops the program.
+- A much more detailed overview of FLOW-MATIC is available in the manual titled, FLOW-MATIC PROGRAMMING SYSTEM[10]
+- Hopper (1959) p. 198.
+- Hopper (1978) p. 16.
+- Sammet (1969) p. 316
+- Beyer, Kurt (February 10, 2012). "10". Grace Hopper and the Invention of the Information Age. MIT Press. ISBN 9780262517263.
+- Sammet (1978) p. 204.
+- Remington Rand Univac a Division of Sperry Rand Corporation (1957). FLOW-MATIC PROGRAMMING SYSTEM p. 30.
+- Sperry Rand (1957) p. 7.
+- Sammet (1969) p. 323.
+- Hopper (1978) p. 18.
+- Remington Rand Univac a Division of Sperry Rand Corporation (1957). FLOW-MATIC PROGRAMMING SYSTEM
+- Hopper, Grace (1978). Keynote Address, History of Programming Languages I. ACM. pp. 16–20. ISBN 0-12-745040-8
+- Hopper, Grace (1959). “Automatic programming: Present status and future trends”, Mechanisation of Thought Processes, National Physical Laboratory Symposium 10. Her Majesty's Stationery Office. pp 155–200, cited in Knuth, Donald; Trabb Pardo, Luis (August 1976). The Early Development of Programming Languages (Technical report). Computer Science Department, School of Humanities and Sciences, Stanford University. Retrieved 2016-03-19.
+- Sammet, Jean (1969). Programming Languages: History and Fundamentals. Prentice-Hall. p. 316–324. ISBN 0-13-729988-5
+- Sammet, Jean (1978). "The Early History of COBOL", History of Programming Languages I. ACM. pp. 199–243. ISBN 0-12-745040-8
+- Sperry Rand Corporation (1957) Introducing a New Language for Automatic Programming: Univac Flow-Matic
+- Remington Rand Univac a Division of Sperry Rand Corporation (1957). FLOW-MATIC PROGRAMMING SYSTEMFLOW-MATIC_Programming_System_1958.pdf
